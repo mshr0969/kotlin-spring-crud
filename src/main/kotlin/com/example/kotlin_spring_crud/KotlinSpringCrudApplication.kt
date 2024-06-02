@@ -1,4 +1,4 @@
-package com.example.kotlin_spring_crud
+package com.example.kotlinspringcrud
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
@@ -7,5 +7,5 @@ import org.springframework.boot.runApplication
 class KotlinSpringCrudApplication
 
 fun main(args: Array<String>) {
-	runApplication<KotlinSpringCrudApplication>(*args)
+    runApplication<KotlinSpringCrudApplication>(*args)
 }
